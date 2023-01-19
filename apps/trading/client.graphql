@@ -1,4 +1,0 @@
-extend type Withdrawal {
-  "Whether or the not the withdrawal is being processed on Ethereum"
-  pendingOnForeignChain: Boolean!
-}
